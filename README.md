@@ -1,6 +1,6 @@
 # py-media-hotkeys
 ![Written in Python](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/1.0-grey)
-### A written in Python tool for assigning hotkeys to manage media playback
+### A written in Python tool for assigning media playback hotkeys as regular keys.
 #### Dependencies
 - keyboard.py
 - pyautogui
