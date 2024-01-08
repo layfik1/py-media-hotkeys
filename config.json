@@ -1,0 +1,8 @@
+{
+	"ver":"1.0", // do not touch
+	"playpause":"f8", // play/pause button keybind
+	"nexttrack":"f7", // next track button keybind
+	"prevtrack":"f6", // previous track button keybind
+	"volumeup":"f5", // volume up button keybind
+	"volumedown":"f4" // volume down button keybind
+}
