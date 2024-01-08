@@ -1,2 +1,2 @@
 # py-media-hotkeys
-img-https://img.shields.io/badge/Python-blue
+![Written in Python](https://img.shields.io/badge/Python-blue)
